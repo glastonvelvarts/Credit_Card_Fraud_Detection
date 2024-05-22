@@ -1,6 +1,3 @@
-Sure, here's a refined version suitable for a README file:
-
----
 
 # Credit Card Fraud Detection
 
